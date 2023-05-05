@@ -4,7 +4,10 @@ This is a Python program that automates the Internshala website to find internsh
 This program saves time and effort for anyone looking for internships on the Internshala website. It eliminates the need for manual searching and allows users to quickly find relevant internships based on their preferences. The screenshot and link sent to WhatsApp also make it easy for users to view and apply to the internship directly from their mobile devices.
 
 # Screenshot's:
-![4](https://user-images.githubusercontent.com/87819222/236442330-9d597660-5199-4f52-be6b-1c5002f43754.jpg)
-![3](https://user-images.githubusercontent.com/87819222/236442339-218b5149-fe84-43f6-8ece-69cb7f3dc860.png)
-![2](https://user-images.githubusercontent.com/87819222/236442341-f4eb73e3-7588-4dfd-b5b1-e353dbccbc49.png)
-![1](https://user-images.githubusercontent.com/87819222/236442379-44497b03-9cc8-4222-92cf-3edee8c5bcf1.png)
+![1](https://user-images.githubusercontent.com/87819222/236443946-78157221-9679-4f1e-9b47-c7c0d2d9e580.jpg)
+![2](https://user-images.githubusercontent.com/87819222/236443999-25c49fdf-26d2-4d26-8e5d-033954c16973.png)
+![3](https://user-images.githubusercontent.com/87819222/236444022-f6679ea5-7caf-4b29-bcc6-37bad0eb2fd0.png)
+![4](https://user-images.githubusercontent.com/87819222/236444040-91f0787a-e92b-43a5-81b2-ba682486d981.jpg)
+
+
+
